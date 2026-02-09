@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+    <meta charset="UTF-8">
+    <title>Rdne burhan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Alnii alcuur</h1>
+        <nav>
+            <a href="#about">About</a> |
+            <a href="#projects">Projects</a> |
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Bi web hogjuuljin ala</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>HTML + CSS basic webpage</li>
+            <li>Portfolio site</li>
+            <li>JavaScript interactive button</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>zalga 108</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Minii Portfolio</p>
+    </footer>
+
+</body>
+</html>
